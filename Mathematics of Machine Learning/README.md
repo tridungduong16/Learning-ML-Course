@@ -1,5 +1,5 @@
 
-# Interpretable Machine Learning:
+# Mathematics of Machine Learning:
 # Table of Contents
 1. [The Statistical Theory of Machine Learning. ](#intrinsic)
 2. [Classification, Regression, Aggregation](#intrinsic)
