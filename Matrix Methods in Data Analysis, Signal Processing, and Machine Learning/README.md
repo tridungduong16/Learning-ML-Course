@@ -1,56 +1,73 @@
 1
 The Column Space of \(A\) Contains All Vectors \(A\boldsymbol{x}\)
 Section I.1: Multiplication \(A\boldsymbol{x}\) Using Columns of \(A\)
+
 2
 Multiplying and Factoring Matrices 
 Section I.2: Matrix-Matrix Multiplication \(AB\)
+
 3
 Orthonormal Columns in \(Q\) Give \(Q’Q= I\)
 Section I.5: Orthogonal Matrices and Subspaces
+
 4
 Eigenvalues and Eigenvectors
 Section I.6: Eigenvalues and Eigenvectors
+
 5
 Positive Definite and Semidefinite Matrices
 Section I.7: Symmetric Positive Definite Matrices
+
 6
 Singular Value Decomposition (SVD)
 Section I.8: Singular Values and Singular Vectors in the SVD
+
 7
 Eckart-Young: The Closest Rank \(k\) Matrix to \(A\)
 Section I.9: Principal Components and the Best Low Rank Matrix
+
 8
 Norms of Vectors and Matrices
 Section I.11: Norms of Vectors and Functions and Matrices
+
 9
 Four Ways to Solve Least Squares Problems
 Section II.2: Least Squares: Four Ways
+
 10
 Survey of Difficulties with \(A\boldsymbol{x} = \boldsymbol{b}\)
 Intro Chapter 2: Introduction to Computations with Large Matrices
+
 11
 Minimizing \(‖\boldsymbol{x}‖\) Subject to \(A\boldsymbol{x} = \boldsymbol{b}\)
 Section I.11: Norms of Vectors and Functions and Matrices
+
 12
 Computing Eigenvalues and Singular Values
 Section II.1: Numerical Linear Algebra
+
 13
 Randomized Matrix Multiplication
 Section II.4: Randomized Linear Algebra
+
 14
 Low Rank Changes in \(A\) and Its Inverse
 Section III.1: Changes in \(A^{-1}\) from Changes in \(A\)
+
 15
 Matrices \(A(t)\) Depending on \(t\), Derivative = \(dA/dt\)
 Section III.1: Changes in \(A^{-1}\) from Changes in \(A\)
 Section III.2: Interlacing Eigenvalues and Low Rank Signals
+
 16
 Derivatives of Inverse and Singular Values
 Section III.1: Changes in \(A^{-1}\) from Changes in \(A\)
 Section III.2: Interlacing Eigenvalues and Low Rank Signals
+
 17
 Rapidly Decreasing Singular Values
 Section III.3: Rapidly Decaying Singular Values
+
 18
 Counting Parameters in SVD, LU, QR, Saddle Points
 Section III.2: Interlacing Eigenvalues and Low Rank Signals
